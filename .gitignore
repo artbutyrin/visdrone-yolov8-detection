@@ -1,5 +1,5 @@
 .idea/
-data/
+data/datasets/
 runs/
 *.pt
 __pycache__/
