@@ -1,0 +1,15 @@
+path: C:/Users/Artem/Documents/My_project/Trainee_test_Visicom/visdrone-yolov8-detection/data/datasets/VisDrone_merged
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: van
+  4: truck
+  5: tricycle
+  6: awning-tricycle
+  7: bus
+  8: motor
