@@ -1,4 +1,4 @@
-path: C:/Users/Artem/Documents/My_project/Trainee_test_Visicom/visdrone-yolov8-detection/data/datasets/VisDrone
+path: ../data/datasets/VisDrone
 train: images/train
 val: images/val
 test: images/test
